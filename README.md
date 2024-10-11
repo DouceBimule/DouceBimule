@@ -7,7 +7,7 @@
 
   
 MY SKILLS:
-  [![My Skills](https://skillicons.dev/icons?i=anaconda,aws,mysql,python)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=anaconda,aws,mysql,powerbi,python)](https://skillicons.dev)
   
 
 <!---
