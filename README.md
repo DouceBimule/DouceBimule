@@ -5,7 +5,9 @@
 - 📫 reach me at Marinadouce10@gmail.com.
 - ⚡ Always learning something new.
 
-  [![My Skills](https://skillicons.dev/icons?i=js,anaconda,aws,mysql,python)](https://skillicons.dev)
+  
+MY SKILLS:
+  [![My Skills](https://skillicons.dev/icons?i=anaconda,aws,mysql,python)](https://skillicons.dev)
   
 
 <!---
